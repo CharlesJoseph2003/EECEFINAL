@@ -1,0 +1,5 @@
+.__MACOSX/
+.checkers_project/checkers/.__pychache__/
+.checkers_project/checkers/.pytest_cache/
+.DS_store
+.checkers/DS_store
